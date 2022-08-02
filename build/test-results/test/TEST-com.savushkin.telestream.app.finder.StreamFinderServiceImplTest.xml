@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.savushkin.telestream.app.finder.StreamFinderServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-24T18:10:17" hostname="C10503" time="0.091">
+  <properties/>
+  <testcase name="testLoveDeathAndRobots()" classname="com.savushkin.telestream.app.finder.StreamFinderServiceImplTest" time="0.091"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
