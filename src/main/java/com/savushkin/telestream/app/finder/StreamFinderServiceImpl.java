@@ -4,7 +4,6 @@ import com.savushkin.telestream.domain.Stream;
 import com.savushkin.telestream.domain.StreamType;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import org.yaml.snakeyaml.util.UriEncoder;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
